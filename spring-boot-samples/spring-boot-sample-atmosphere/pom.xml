@@ -8,7 +8,7 @@
 		<version>1.4.0.RELEASE</version>
 	</parent>
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
-	<name>Spring Boot Atmosphere Sample</name>
+	<name>Spring Boot Atmosphere Sample: Jenkins Workshop</name>
 	<description>Spring Boot Atmosphere Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
